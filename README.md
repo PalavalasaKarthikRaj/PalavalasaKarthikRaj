@@ -31,16 +31,18 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to contribute to open source
 - 🥅 2021 Goals: Contribute more to Open Source projects and learn as much as I can
--  interested in Cloud computing,Android Developing......
+-  interested in Cloud computing,Android Development......
 - ⚡ Fun fact: I love to play the world by programming
 <br>
 ----
 <br>
 ## Languages used
 
-[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=envoy-vc&layout=compact)](https://github.com/Zameel-Byte)
-
-## Contributors Badge
+-Java
+-c
+-HTML
+-CSS
+-PYTHON
 
 ![Your Repository's Stats](https://contrib.rocks/image?repo=just-innovative-bro/F.R.I.D.A.Y)
 
