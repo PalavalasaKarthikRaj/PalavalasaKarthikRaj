@@ -38,10 +38,10 @@ You can click the Preview link to take a look at your changes.
 <br>
 ## Languages used
 
--Java
--c
--HTML
--CSS
+-Java <br>
+-c <br>
+-HTML <br>
+-CSS <br>
 -PYTHON
 
 ![Your Repository's Stats](https://contrib.rocks/image?repo=just-innovative-bro/F.R.I.D.A.Y)
@@ -51,7 +51,9 @@ You can click the Preview link to take a look at your changes.
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
+<p align="center">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techrepublic.com%2Farticle%2Faws-is-retiring-ec2-classic-soon-heres-what-you-need-to-know%2F&psig=AOvVaw35Mt8W6dTHgnFlNaymIX8q&ust=1638273299977000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDr4uLBvfQCFQAAAAAdAAAAABAI">
+</p>
 
 
 ### Frontend  
